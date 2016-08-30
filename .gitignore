@@ -108,3 +108,4 @@ bundler_stubs/*
 
 vendor/bundle/*
 *.db
+.env
